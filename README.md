@@ -10,7 +10,7 @@ This project focuses on setting up responsive character physics, 2D sprite handl
 
 <img width="1920" height="1029" alt="Screenshot 2026-06-06 210625" src="https://github.com/user-attachments/assets/b40696aa-0130-4c28-bfa8-21671378d9e9" />
 
-Idle animation
+Jumping animation
 
 <img width="1920" height="1029" alt="Screenshot 2026-06-06 210237" src="https://github.com/user-attachments/assets/8796d277-b2f8-4756-bcac-1998652a4553" />
 
@@ -18,7 +18,7 @@ Moving sideways
 
 <img width="1920" height="1029" alt="Screenshot 2026-06-06 210257" src="https://github.com/user-attachments/assets/48502d5d-3873-4c9f-8800-bd272a27f6bc" />
 
-Jumping animation
+Idle animation
 
 ## Controls
 | Action | Keybinding |
