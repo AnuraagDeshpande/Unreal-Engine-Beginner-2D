@@ -11,8 +11,10 @@ A simple 2D side-scrolling platformer prototype built completely with Unreal Eng
 <!-- REPLACE THIS LINE BY DRAGGING & DROPPING YOUR VIDEO/GIF HERE -->
 ![Gameplay Preview](
 
-<img width="1920" height="1080" alt="Screenshot 2023-09-13 114503" src="https://github.com/user-attachments/assets/beff05f4-2e20-40c1-90c4-8aa57126e315" />
-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/7020023f-71e6-4d30-b515-aebcd0cec492" />
+<img width="1920" height="1029" alt="Screenshot 2026-06-06 210625" src="https://github.com/user-attachments/assets/b40696aa-0130-4c28-bfa8-21671378d9e9" />
+<img width="1920" height="1029" alt="Screenshot 2026-06-06 210237" src="https://github.com/user-attachments/assets/8796d277-b2f8-4756-bcac-1998652a4553" />
+<img width="1920" height="1029" alt="Screenshot 2026-06-06 210257" src="https://github.com/user-attachments/assets/48502d5d-3873-4c9f-8800-bd272a27f6bc" />
+
 )
 
 ## 🎮 Core Features
